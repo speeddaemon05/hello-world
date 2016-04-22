@@ -1,2 +1,3 @@
 # hello-world
-Just learning git
+
+Hi just going through the tutorial, understanding branching.
